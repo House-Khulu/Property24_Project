@@ -1,2 +1,2 @@
 # Property24_Project
-This is a project about Property24 - A simulated dataset
+Property24 Database Project This project focuses on designing and creating an SQL Server database inspired by Property24. It covers relational database design, table creation, and inserting property listing data to simulate a real-world property platform and demonstrate core data engineering concepts.
